@@ -1,0 +1,9 @@
+autogen-agentchat
+autogen-ext
+autogen-core
+asyncio
+dotenv
+openai
+tiktoken
+autogen-ext[docker]
+streamlit
